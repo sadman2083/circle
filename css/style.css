@@ -1,0 +1,8 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 7px solid #FFE79B;
+    border-radius: 50%;
+    background-image: url(./images/mushroom_soup.jpeg);
+    background-size: cover;
+}
